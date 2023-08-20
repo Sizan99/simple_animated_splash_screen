@@ -2,5 +2,6 @@
 
 A new Flutter project.
 
+![ezgif-5-95e547fb5d](https://github.com/Sizan99/simple_animated_splash_screen/assets/78310747/709a69e2-af0b-40d4-af0d-10c5b13de2d5)
 
-https://github.com/Sizan99/simple_animated_splash_screen/assets/78310747/6b2e7e62-ce4b-4881-88fc-a1d56f913e2b
+
